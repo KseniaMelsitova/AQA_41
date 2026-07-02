@@ -5,7 +5,8 @@
 # Log file
 *.log
 
-.idea/
+/.idea
+/.gradle
 
 # BlueJ files
 *.ctxt
