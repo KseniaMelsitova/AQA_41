@@ -15,6 +15,8 @@ public class SimpleWebTest {
         headless = false;
         timeout = 10000;
 
+//просто коммент для конфликта
+        // здесь будет описание классов и проверок
 
         open("https://the-internet.herokuapp.com/");
 
