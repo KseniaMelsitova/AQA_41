@@ -15,7 +15,6 @@ public class SimpleWebTest {
         headless = false;
         timeout = 10000;
 
-//просто коммент для конфликта
 
         open("https://the-internet.herokuapp.com/");
 
